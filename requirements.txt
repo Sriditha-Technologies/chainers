@@ -1,3 +1,4 @@
 ipykernel==6.29.5
 requests==2.32.3
 cryptography==44.0.2
+ecdsa==0.19.0
